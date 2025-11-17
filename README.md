@@ -22,5 +22,5 @@ Fomentamos la colaboración abierta y el desarrollo de software de calidad. Si e
 
 ## Contacto
 
-- Sitio web: [www.tplbuses.cl](https://www.tplbuses.cl)
-- Correo: contacto@tplbuses.cl
+- Sitio web: [www.tpl.cl](https://www.tpl.cl)
+- Correo: contacto@tpl.cl
